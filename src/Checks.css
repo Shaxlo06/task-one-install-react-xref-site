@@ -1,0 +1,105 @@
+.checks {
+    margin-bottom: 159px;
+}
+
+.checks__top {
+    padding: 32px 64px;
+    background-color: #164038;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;     
+}
+
+.checks__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+}
+
+.checks__heading {
+    width: 378px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    color: #FFFFFF;
+    margin-bottom: 19px;    
+}
+
+.checks__subtext {
+    width: 391px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;    
+    color: #FFFFFF;
+    margin-bottom: 36px;
+}
+
+.checks__btn {
+    width: 129px;
+    height: 50px;
+    background-color: #E1FFA0;
+    border: 1px solid #E1FFA0;
+    border-radius: 100px;
+}
+
+.checks__btn-visit {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    color: #0C2520;
+}
+
+.checks__bottom-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.checks__bottom-item {
+    width: 726px;
+    height: 252px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    vertical-align: bottom;
+    padding: 105px 60px 35px 32px;
+}
+
+.checks__bottom-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    color: #0C2520;
+    margin-bottom: 8px;
+}
+
+.checks__bottom-subtext {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #0C2520;
+    margin-bottom: 20px;
+}
+
+.checks__bottom-link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #164038;
+}

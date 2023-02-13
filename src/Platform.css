@@ -1,0 +1,77 @@
+.platform__container {
+    text-align: center;
+    margin-bottom: 158px;
+}
+
+.platform__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;
+    margin-top: 179px;
+    margin-bottom: 13px;
+}
+
+.platform__heading {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    text-align: center;
+    color: #333333;
+    margin-bottom: 79px;
+}
+
+.platform__container > img {
+    width: 963px;
+    height: 471px;
+    margin-bottom: 209px;
+}
+
+.platform__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 55px;
+}
+
+.platform__item {
+    width: 243px;
+    text-align: center;
+}
+
+.platform__item-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    color: #0C2520;
+    margin-bottom: 25px;
+}
+
+.platform__item-subtext {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #0C2520;
+    margin-bottom: 38px;
+}
+
+.platform__link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #164038;
+}
